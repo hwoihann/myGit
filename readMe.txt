@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Merge on master.
+Creating a branch is quick AND simple.
